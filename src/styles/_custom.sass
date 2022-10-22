@@ -41,18 +41,7 @@
     &-4
       width: 60px
     &-5
-      width: 60px
-
-@media (max-width: 1199px)
-  .banner-principal-decorativo
-    &-1
-          
-    &-2
-      
-    &-3
-      
-    &-4
-      
+      width: 60px      
 
 
 @keyframes float1
@@ -132,6 +121,11 @@
     width: 100%
     height: 70%
     background-color: #C0C942
+
+  @media (max-width: 768px)     
+    &::before      
+      height: 106%
+      background-color: #C0C942
 
   
 
@@ -427,11 +421,11 @@
 
 // Table  -----------------------------------------
 
+
 .tabla-a.custom_01
   table
     thead, tbody
       background-color: #FFFAF4
-
 
 .celldarkGray
   color: white
@@ -451,21 +445,48 @@
 .crd_hover_txt
   position: relative  
   padding: 0 !important
-  overflow: hidden  
-  background-color:#31313C
+  overflow: hidden    
   &:hover    
     cursor: pointer
-    .crd_hover_txt--font     
+    .crd_hover_txt--body    
       transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
       transform: translateY(0)
-  .crd_hover_txt--font
+
+  .crd_hover_txt--img
+    position: relative
+    .imgTitle
+      position: absolute
+      bottom: 5%
+      left: 0
+      width: 100%
+      height: 60px
+      text-align: center
+      background-color: rgba(255, 255, 255, 0.856)
+      h5        
+        margin: 0 !important
+        position: relative
+        top: 50%
+        transform: translateY(-50%)
+
+  .crd_hover_txt--body
     position: absolute
     padding: 2rem
+    width: 100%
     height: 100%
     bottom: 0    
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(100%)
-    background-color:#31313C
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 0
+      width: 100%
+      height: 100%
+      background-image: url("../assets/curso/temas/recursos/crd_02.svg")
+      background-repeat: no-repeat
+      background-size: cover
+      background-position: bottom center      
 
 .txt--container
   position: relative

@@ -20,7 +20,7 @@
               p.mb-0 Las actividades en una biblioteca tienen un conjunto de términos básicos que ayudan a los técnicos en bibliotecas a entender su labor y a facilitar el acceso a la información por parte de los usuarios, de sus colecciones.
           .bg--brown01.p-4.br_01(data-aos="zoom-in")
             .row
-              .col-auto
+              .col-auto.d-none.d-md-flex
                 figure
                   img(src="@/assets/curso/temas/t1/t1_01.svg", alt="alt").img190
               .col
@@ -235,7 +235,7 @@
           .bg--gray.p-4
             p En concordancia con la normativa técnica que rige la organización del recurso bibliográfico, están también las políticas de tal proceso. #[span.txt--orange.bold Estas políticas se dividen en:]
             .row.justify-content-center.align-items-center.mb-4
-              .col-auto
+              .col-auto.d-none.d-md-flex
                 figure
                   img(src='@/assets/curso/temas/t1/t1_20.svg' alt='')
               .col
@@ -400,7 +400,7 @@
                 img(src="@/assets/curso/temas/t1/t1_30.png", alt="alt")
 
           .row.justify-content-center(numero="5" titulo="Año de edición")
-            .col-12
+            .col
               p.mb-5 El año de edición se utiliza para diferenciar entre sí las distintas ediciones de una misma obra y sólo se agregará cuando se trate de una edición diferente de la primera.
 
               .tabla-a.custom_01.mb-0

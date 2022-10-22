@@ -78,7 +78,7 @@
 
       p(data-aos="fade-left").mb-4 El sellado permite asignar a los materiales, las marcas necesarias para indicar que son propiedad de una biblioteca o institución determinada. Para ello, cada biblioteca deberá contar con sellos apropiados para facilitar su colocación en los cantos de los materiales.
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-7(data-aos="fade-left")
           .bg--darkGray.p-4
             p El texto del sello debe contener, en letra clara, el nombre de la biblioteca y el de la institución, ejemplo:
@@ -108,7 +108,7 @@
                 i.fa-li.fas.fa-chevron-right.txt--orange
                 | En páginas clave.
 
-        .col-lg-5(data-aos="flip-right")
+        .col-lg-5.d-none.d-lg-flex(data-aos="flip-right")
           figure
             img(src="@/assets/curso/temas/t2/t2_05.png", alt="alt")
 
@@ -306,7 +306,7 @@
     p(data-aos="fade-left") Los inventarios bibliográficos #[span.txt--orange.bold son archivos que registran los documentos disponibles en la colección del centro de recursos]. Los inventarios se deben encontrar clasificados por fondo bibliográfico (inglés, francés, alemán, español) Al abrir cada archivo se encuentra la serie de categorías que dan el acceso a la organización temática de cada fondo.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
+      .col-xl-7
         p(data-aos="fade-left") #[span.txt--brown.bold Estas categorías de clasificación de inventarios, se crean en una base de materias estudiadas en los programas que establece el centro de información.]
 
         .bg--darkBlue.br_01.py-3.pe-4.mb-4(data-aos="zoom-in")
@@ -320,23 +320,62 @@
 
         p(data-aos="fade-left").mb-0 En lo relacionado con inventarios de material bibliográfico, tenga presentes algunos aspectos clave como los que se mencionan a continuación:
 
-      .col-lg-5.d-none.d-lg-flex(data-aos="flip-left")
+      .col-lg-5.d-none.d-xl-flex(data-aos="flip-left")
         figure
           img(src="@/assets/curso/temas/t2/t2_18.png", alt="alt")
+    
 
     .row.justify-content-center
-      .col-lg-3.col-md-5.col-10.mb-4.mb-lg-0(data-aos="flip-left")
-        figure
-          img(src="@/assets/curso/temas/t2/t2_19.png", alt="alt")
-      .col-lg-3.col-md-5.col-10.mb-4.mb-lg-0(data-aos="flip-left")
-        figure
-          img(src="@/assets/curso/temas/t2/t2_20.png", alt="alt")
-      .col-lg-3.col-md-5.col-10.mb-4.mb-lg-0(data-aos="flip-left")
-        figure
-          img(src="@/assets/curso/temas/t2/t2_21.png", alt="alt")
-      .col-lg-3.col-md-5.col-10.mb-4.mb-lg-0(data-aos="flip-left")
-        figure
-          img(src="@/assets/curso/temas/t2/t2_22.png", alt="alt")
+      .col-xl-3.col-md-5.col-10.mb-4.mb-xl-0(data-aos="flip-left")
+        .crd_hover_txt.br_01
+          .crd_hover_txt--img
+            .imgTitle
+              h5 Inventariado
+            figure
+              img(src="@/assets/curso/temas/t2/t2_19.png", alt="alt")
+          .crd_hover_txt--body
+            .vp_middle.text-center
+              h5 Inventariado
+              p.mb-0 La asignación de número de inventario o adquisición es la última etapa del proceso técnico menor de los materiales, y consiste en anotar en cada volumen físico el número de inventario.
+
+      .col-xl-3.col-md-5.col-10.mb-4.mb-xl-0(data-aos="flip-left")
+        .crd_hover_txt.br_01
+          .crd_hover_txt--img            
+            .imgTitle
+              h5 Números de adquisición para<br>varios volúmenes
+            figure
+              img(src="@/assets/curso/temas/t2/t2_20.png", alt="alt")
+          .crd_hover_txt--body
+            .vp_middle.text-center
+              h5 Números de adquisición para varios volúmenes
+              p.mb-0 Si una obra se compone por diversos volúmenes, como es el caso de las enciclopedias, cada volumen tendrá su propio número de adquisición.      
+
+      .col-xl-3.col-md-5.col-10.mb-4.mb-xl-0(data-aos="flip-left")
+        .crd_hover_txt.br_01
+          .crd_hover_txt--img            
+            .imgTitle
+              h5 Registro de números<br>de adquisición
+            figure
+              img(src="@/assets/curso/temas/t2/t2_21.png", alt="alt")
+          .crd_hover_txt--body
+            .vp_middle.text-center
+              h5 Registro de números de adquisición
+              p.mb-0 Los números de adquisición se deben registrar en una libreta o en un archivo de computadora, indicando de manera cronológica la numeración (1, 2, 3, etc.).
+
+      .col-xl-3.col-md-5.col-10.mb-4.mb-xl-0(data-aos="flip-left")
+        .crd_hover_txt.br_01
+          .crd_hover_txt--img            
+            .imgTitle
+              h5 Orden lógico del registro
+            figure
+              img(src="@/assets/curso/temas/t2/t2_22.png", alt="alt")
+          .crd_hover_txt--body
+            .vp_middle.text-center
+              h5 Orden lógico del registro
+              p.mb-0 El registro debe ser cronológico indicando, además, fecha de adquisición, el autor, título y el tipo de adquisición (compra, canje o donación).
+           
+
+      
 
     
 
