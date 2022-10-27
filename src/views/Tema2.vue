@@ -97,10 +97,10 @@
             ul.fa-ul
               li.mb-2
                 i.fa-li.fas.fa-chevron-right.txt--orange
-                | La portada
+                | La portada.
               li.mb-2
                 i.fa-li.fas.fa-chevron-right.txt--orange
-                | La tabla de contenido
+                | La tabla de contenido.
               li.mb-2
                 i.fa-li.fas.fa-chevron-right.txt--orange
                 | En el caso de las láminas de obras de arte, al reverso de las páginas de las páginas de las imágenes.
@@ -173,7 +173,7 @@
               figure.mb-4
                 img(src='@/assets/curso/temas/t2/t2_10.svg' alt='').img85.m-auto              
               h5.text-center Periodicidad
-              p.mb-0.text-center Periodicidad de la publicación (diaria, mensual, trimestral, etc.) 
+              p.mb-0.text-center Periodicidad de la publicación (diaria, mensual, trimestral, etc.).
 
             .bg_crd_01.text-white.py-5.px-4.br_01
               figure.mb-4
@@ -216,17 +216,17 @@
           .tabla-a.mb-5
             table             
               tbody
-                tr.cell_Pale.text-center
-                  td Q - quincenal
-                  td T - trimestral
+                tr.cell_Pale.borderTop.text-center
+                  td.borderRigth Q - quincenal
+                  td.borderRigth T - trimestral
                   td A - anual
                 tr.cell_brown.text-center
-                  td M - mensual
-                  td QT cuatrimestral
+                  td.borderRigth M - mensual
+                  td.borderRigth QT cuatrimestral
                   td BA - bianual
                 tr.cell_Pale.text-center
-                  td B - Bimensual
-                  td ST - semestral
+                  td.borderRigth B - Bimensual
+                  td.borderRigth ST - semestral
                   td I - irregular
 
     separador
@@ -284,17 +284,17 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6.gx-0.mb-4.mb-lg-0(data-aos="flip-left")
-        .bg--BoldOrange.hg-100
+        .bg--darkBlue.hg-100
           figure
             img(src="@/assets/curso/temas/t2/t2_16.jpg", alt="alt")
-          .p-4
+          .p-4.text-white
             h5 Préstamo bibliográfico
             p.mb-0 Organizado por tipo de usuario, por programa académico y por tipo de materia bibliográfica.
       .col-lg-6.gx-0(data-aos="flip-left")
-        .bg--darkBlue.hg-100
+        .hg-100
           figure
             img(src="@/assets/curso/temas/t2/t2_17.jpg", alt="alt")
-          .p-4.text-white
+          .bg--BoldOrange.p-4
             h5 Consulta de bases de datos
             p.mb-0 Organizada por tipo de usuario, por programa académico y por nombre de la base de datos.
 

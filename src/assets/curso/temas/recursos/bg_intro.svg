@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="274" viewBox="0 0 1240 274">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectángulo_337776" data-name="Rectángulo 337776" d="M13,0H302a0,0,0,0,1,0,0V166a0,0,0,0,1,0,0H13A13,13,0,0,1,0,153V13A13,13,0,0,1,13,0Z" transform="translate(180 389)" fill="#f5e8df"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_968453" data-name="Grupo 968453" transform="translate(11847 13176)">
+    <path id="Trazado_661882" data-name="Trazado 661882" d="M13,0H1227c7.18,0,13,9.606,13,21.455V252.509c0,11.849-5.82,21.455-13,21.455H13c-7.18,0-13-9.606-13-21.455V21.455C0,9.606,5.82,0,13,0Z" transform="translate(-11847 -13176)" fill="#f5e8df"/>
+    <g id="Enmascarar_grupo_952162" data-name="Enmascarar grupo 952162" transform="translate(-12027 -13457)" clip-path="url(#clip-path)">
+      <g id="Grupo_968452" data-name="Grupo 968452" transform="translate(18.678 451.242) rotate(7)">
+        <path id="Trazado_661883" data-name="Trazado 661883" d="M-10940.4-12359.922s45.957-.543,123.555-46.29,86.914,35.568,133.984,35.039,59.287-35.344,110.316-26.046,63.939,48,124.588,30.646,12.07,55.391,12.07,55.391l-497.654,10.983Z" transform="translate(10974.084 12420.181)" fill="#fd9827" opacity="0.35"/>
+        <path id="Trazado_661884" data-name="Trazado 661884" d="M-10940.4-12359.922s45.957-.543,123.555-46.29,86.914,35.568,133.984,35.039,59.287-35.344,110.316-26.046,63.939,48,124.588,30.646,12.07,55.391,12.07,55.391l-497.654,10.983Z" transform="translate(10943.402 12425.184)" fill="none" stroke="#fff" stroke-width="3" opacity="0.35"/>
+        <path id="Trazado_661885" data-name="Trazado 661885" d="M-10940.4-12359.922s45.957-.543,123.555-46.29,86.914,35.568,133.984,35.039,59.287-35.344,110.316-26.046,63.939,48,124.588,30.646,12.07,55.391,12.07,55.391l-497.654,10.983Z" transform="translate(11076.472 12451.53)" fill="none" stroke="#12263f" stroke-width="3" opacity="0.35"/>
+        <path id="Trazado_661886" data-name="Trazado 661886" d="M-10940.4-12359.922s45.957-.543,123.555-46.29,86.914,35.568,133.984,35.039,59.287-35.344,110.316-26.046,63.939,48,124.588,30.646,12.07,55.391,12.07,55.391l-497.654,10.983Z" transform="translate(10940.4 12430.981)" fill="#fd9827" opacity="0.19"/>
+      </g>
+    </g>
+  </g>
+</svg>

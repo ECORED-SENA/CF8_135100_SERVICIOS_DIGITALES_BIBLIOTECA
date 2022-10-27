@@ -10,7 +10,7 @@
     .bg--grad_01
       p(data-aos="fade-left").pt-4 Dentro de las actividades que se realizan en la biblioteca, para la satisfacción de necesidades informativas de los usuarios, se encuentran aquellas que #[span.txt--orange.bold están relacionadas con el procesamiento técnico del material bibliográfico que se encuentra en sus colecciones].
 
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5
         .col-xl-7
           .row.mb-4(data-aos="fade-left")
             .col-auto.d-none.d-lg-flex
@@ -66,13 +66,13 @@
       .row.justify-content-center.mb-5
         .col-lg-7
           TabsA.color-acento-contenido(data-aos="zoom-in")
-            .bg--darkGray.p-5.br_01(titulo="Registro")
+            .bg_tab.p-5.br_01(titulo="Registro")
               h4 Registro
               p Número que le asigna a los documentos para distinguirlos, de cualquier otro dentro de la colección de la Biblioteca.   
-            .bg--darkGray.p-5.br_01(titulo="Sellado")
+            .bg_tab.p-5.br_01(titulo="Sellado")
               h4 Sellado
               p Es la identificación de los documentos como propiedad de la biblioteca: se estampa en la portada, en algunas páginas intermedias impresas y en la última página.   
-            .bg--darkGray.p-5.br_01(titulo="Sellado")
+            .bg_tab.p-5.br_01(titulo="Sellado")
               h4 Catalogación
               p Es la técnica mediante la cual se presentan de forma sintética los detalles técnicos, gráficos, tipográficos, y bibliográficos de un documento, para ubicarlo dentro de la colección.
         .col-lg-5(data-aos="flip-right")
@@ -206,7 +206,7 @@
           figure
             img(src='@/assets/curso/temas/t1/t1_18.png' alt='')
 
-      .tabla-a.mb-5(data-aos="zoom-in")
+      .tabla-a.cstm_02.mb-5(data-aos="zoom-in")
         table
           thead
             tr.celldarkGray
@@ -216,18 +216,18 @@
             tr.cell_gray
               td(colspan='2').text-center.bold Internacionales
             tr.cell_Pale
-              td ISBN (International Standard Book Number)
+              td.borderRigth ISBN (#[em International Standard Book Number])
               td Abreviatura del ingl&eacute;s para N&uacute;mero Est&aacute;ndar Internacional del Libro, es un identificador &uacute;nico para libros editados en cualquier parte del mundo y previstos para uso comercial.
             tr.cell_brown
-              td ISSN (International Standard Serial Number)
+              td.borderRigth ISSN (#[em International Standard Serial Number])
               td Se trata de un N&uacute;mero Estandarizado de Identificaci&oacute;n Internacional de publicaciones peri&oacute;dicas, como anuarios, revistas y diarios. Esta norma permite estandarizar las clasificaciones y evitar errores de transcripci&oacute;n de t&iacute;tulos o de traducci&oacute;n, lo cual es de suma ayuda para los cat&aacute;logos bibliogr&aacute;ficos y hemerogr&aacute;ficos.
             tr.cell_Pale
-              td MPEG2 (Moving Picture Experts Group).              
+              td.borderRigth MPEG2 (#[em Moving Picture Experts Group]).              
               td Se denomina as&iacute; a un conjunto de normas y est&aacute;ndares para la codificaci&oacute;n de audio y v&iacute;deo promulgada por el Grupo de Expertos en Im&aacute;genes en Movimiento (MPEG), publicados en el est&aacute;ndar ISO 13818. Los planteamientos t&eacute;cnicos de esta normativa se emplean para televisi&oacute;n digital terrestre, por sat&eacute;lite o cable, as&iacute; como en discos SVCD y DVD.
             tr.cell_gray
               td(colspan='2').text-center.bold Normas Nacionales
             tr.cell_brown
-              td Ley 1379 de 2010
+              td.borderRigth Ley 1379 de 2010
               td Selecci&oacute;n de art&iacute;culos relacionados con el patrimonio bibliogr&aacute;fico y documental.
 
       .row.justify-content-center.align-items-center.mb-5
@@ -383,7 +383,7 @@
           .row.justify-content-center(numero="3" titulo="Clave de ubicación y número de clasificación")
             .col-xl-7.mb-4.mb-xl-0
               p Se asignan al acervo de consulta (C o REF). Cada biblioteca puede establecer sus propias claves.
-              p.mb-0 El número de clasificación es una notación constituida por caracteres numéricos o alfanuméricos, que se asigna de acuerdo al tema de que trata la obra, utilizando algún sistema de clasificación como, por ejemplo, el sistema decimal Dewey.             
+              p.mb-0 El número de clasificación es una notación constituida por caracteres numéricos o alfanuméricos, que se asigna de acuerdo al tema de que trata la obra, utilizando algún sistema de clasificación como, por ejemplo, el sistema decimal #[em Dewey].             
 
             .col-xl-5.col-8
               figure

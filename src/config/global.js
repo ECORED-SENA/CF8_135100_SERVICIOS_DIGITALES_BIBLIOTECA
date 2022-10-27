@@ -135,7 +135,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Organización del recurso de información bibliográfica',
+      tema: 'Organización del recurso de información bibliográfica.',
       referencia:
         'Biblioteca DGIRE (s.f.).  Procesos técnicos de los materiales. Dgire.',
       tipo: 'Página web',
@@ -143,7 +143,7 @@ export default {
         'https://www.dgire.unam.mx/webdgire/bibliotecas/cat-proceso.html#inventariar',
     },
     {
-      tema: 'Organización del recurso de información bibliográfica',
+      tema: 'Organización del recurso de información bibliográfica.',
       referencia: 'Biblioteca DGIRE (s.f.). Organización bibliográfica. Dgire.',
       tipo: 'Página web',
       link:
@@ -171,32 +171,32 @@ export default {
     {
       termino: 'Acceso al patrimonio bibliográfico y documental',
       significado:
-        'Derecho u oportunidad de usar de forma libre y gratuita el patrimonio bibliográfico y documental sin discriminación de sexo, raza, religión, idioma, condición económica o geográfica o situación ideológica, cognitiva, étnica y física',
+        'Derecho u oportunidad de usar de forma libre y gratuita el patrimonio bibliográfico y documental sin discriminación de sexo, raza, religión, idioma, condición económica o geográfica o situación ideológica, cognitiva, étnica y física.',
     },
     {
       termino: 'Accesibilidad',
       significado:
-        'Acceso a la información, que es la capacidad de identificar, recuperar y utilizar la información de forma eficaz',
+        'Acceso a la información, que es la capacidad de identificar, recuperar y utilizar la información de forma eficaz.',
     },
     {
       termino: 'Acervo bibliográfico y documental patrimonial',
       significado:
-        'Conjunto de documentos con valor patrimonial que se encuentran en cualquier formato o soporte y hacen parte de una unidad de información',
+        'Conjunto de documentos con valor patrimonial que se encuentran en cualquier formato o soporte y hacen parte de una unidad de información.',
     },
     {
       termino: 'Asistencia técnica',
       significado:
-        'Apoyo prestado por especialistas que se puede desarrollar a través de la transmisión de información y conocimientos teóricos y prácticos, instrucción, formación de habilidades y servicios de consultoría, y Aplicar la transferencia de datos técnicos',
+        'Apoyo prestado por especialistas que se puede desarrollar a través de la transmisión de información y conocimientos teóricos y prácticos, instrucción, formación de habilidades y servicios de consultoría, y Aplicar la transferencia de datos técnicos.',
     },
     {
       termino: 'Biblioteca',
       significado:
-        'Estructura organizativa que, mediante los procesos y servicios técnicamente apropiados, tiene como misión facilitar el acceso de una comunidad o grupo particular de usuarios a documentos publicados o difundidos en cualquier soporte',
+        'Estructura organizativa que, mediante los procesos y servicios técnicamente apropiados, tiene como misión facilitar el acceso de una comunidad o grupo particular de usuarios a documentos publicados o difundidos en cualquier soporte.',
     },
     {
       termino: 'Biblioteca digital patrimonial',
       significado:
-        'Colecciones organizadas de contenidos digitales con valor patrimonial que se ponen a disposición del público',
+        'Colecciones organizadas de contenidos digitales con valor patrimonial que se ponen a disposición del público.',
     },
     {
       termino: 'Biblioteca pública',
@@ -206,22 +206,22 @@ export default {
     {
       termino: 'Bienes de Interés Cultural',
       significado:
-        'Bienes materiales que las autoridades competentes han declarado como monumentos, áreas de conservación histórica, arqueológica, o arquitectónica, conjuntos históricos',
+        'Bienes materiales que las autoridades competentes han declarado como monumentos, áreas de conservación histórica, arqueológica, o arquitectónica, conjuntos históricos.',
     },
     {
       termino: 'Catalogación',
       significado:
-        'Proceso que describe las características físicas de los documentos, de acuerdo con métodos y técnicas bibliotecológicas, normas y estándares nacionales e internacionales, con el fin de crear referentes de acceso, catálogos e índices calcográficos, para la recuperación fácil y oportuna de la información (Patrimonio bibliográfico y documental en bibliotecas',
+        'Proceso que describe las características físicas de los documentos, de acuerdo con métodos y técnicas bibliotecológicas, normas y estándares nacionales e internacionales, con el fin de crear referentes de acceso, catálogos e índices calcográficos, para la recuperación fácil y oportuna de la información (Patrimonio bibliográfico y documental en bibliotecas.',
     },
     {
       termino: 'Conservación',
       significado:
-        'Patrimonio bibliográfico y documental tiene que ver con las acciones y métodos de conservación preventiva y restauración, de acuerdo con los procedimientos establecidos por las instituciones que están a cargo de las colecciones,',
+        'Patrimonio bibliográfico y documental tiene que ver con las acciones y métodos de conservación preventiva y restauración, de acuerdo con los procedimientos establecidos por las instituciones que están a cargo de las colecciones.',
     },
     {
       termino: 'Contenidos estáticos',
       significado:
-        'Obras digitales publicadas como obras finalizadas, pensadas para no tener variaciones en su contenido, que no tienen posibilidades de interacción social o que no utilizan tecnologías de lenguaje, contenido y diseño dinámicos',
+        'Obras digitales publicadas como obras finalizadas, pensadas para no tener variaciones en su contenido, que no tienen posibilidades de interacción social o que no utilizan tecnologías de lenguaje, contenido y diseño dinámicos.',
     },
   ],
   referencias: [
@@ -259,7 +259,7 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Responsable Equipo de Desarrollo Curricular',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -300,10 +300,39 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Laura Ximena Hurtado Villalba',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Oscar Iván Uribe Ortiz',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Magdi Khalifah',
@@ -312,7 +341,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Mayra Alejandra Álvarez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
