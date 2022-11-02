@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="658.092" height="29.449" viewBox="0 0 658.092 29.449">
+  <defs>
+    <filter id="Trazado_661204" x="331.095" y="0.4" width="326.997" height="20" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_661206" x="0" y="0.4" width="326.997" height="20" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_661205" x="306.597" y="0" width="44.898" height="29.449" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_966917" data-name="Grupo 966917" transform="translate(-705.273 -6444.6)">
+    <g transform="matrix(1, 0, 0, 1, 705.27, 6444.6)" filter="url(#Trazado_661204)">
+      <path id="Trazado_661204-2" data-name="Trazado 661204" d="M-7921-5273h307" transform="translate(8262.1 5280.4)" fill="none" stroke="#674e45" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 705.27, 6444.6)" filter="url(#Trazado_661206)">
+      <path id="Trazado_661206-2" data-name="Trazado 661206" d="M-7921-5273h307" transform="translate(7931 5280.4)" fill="none" stroke="#674e45" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 705.27, 6444.6)" filter="url(#Trazado_661205)">
+      <path id="Trazado_661205-2" data-name="Trazado 661205" d="M-7622.77-5264l12.049,9.049,12.049-9.049" transform="translate(7939.77 5271.4)" fill="none" stroke="#674e45" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
