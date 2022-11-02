@@ -68,11 +68,11 @@
           TabsA.color-acento-contenido(data-aos="zoom-in")
             .bg_tab.p-5.br_01(titulo="Registro")
               h4 Registro
-              p Número que le asigna a los documentos para distinguirlos, de cualquier otro dentro de la colección de la Biblioteca.   
+              p Número que le asigna a los documentos para distinguirlos, de cualquier otro dentro de la colección de la biblioteca.   
             .bg_tab.p-5.br_01(titulo="Sellado")
               h4 Sellado
               p Es la identificación de los documentos como propiedad de la biblioteca: se estampa en la portada, en algunas páginas intermedias impresas y en la última página.   
-            .bg_tab.p-5.br_01(titulo="Sellado")
+            .bg_tab.p-5.br_01(titulo="Catalogación")
               h4 Catalogación
               p Es la técnica mediante la cual se presentan de forma sintética los detalles técnicos, gráficos, tipográficos, y bibliográficos de un documento, para ubicarlo dentro de la colección.
         .col-lg-5(data-aos="flip-right")
@@ -136,7 +136,7 @@
               img(src="@/assets/curso/temas/recursos/warning_02.svg", alt="alt").img120
           .col
             h5.txt--orange ¡Importante!
-            p.text-white.mb-0 Las colecciones de los documentos en las estanterías se organizan de izquierda a derecha y de abajo hacia arriba, en orden alfabético del autor, procurando dejar espacios en las baldas para intercalar fututos documentos. La colocación del material no librario se realiza por formato, debidamente señalizado.
+            p.text-white.mb-0 Las colecciones de los documentos en las estanterías se organizan de izquierda a derecha y de abajo hacia arriba, en orden alfabético del autor, procurando dejar espacios en las baldas para intercalar futuros documentos. La colocación del material no librario se realiza por formato, debidamente señalizado.
 
     separador
 
@@ -200,7 +200,7 @@
                 figure
                   img(src="@/assets/curso/temas/recursos/halfCircle_02.svg", alt="alt").img75
               .col              
-                p.mb-0 Por lo general, las normas pueden tener un ámbito de acción nacional o internacional, dependiendo del alcance del organismo que las promulga o del acuerdo en la materia que haya tenido ligar entre países. En este sentido son normas oficiales, es decir, emitidas por la autoridad.
+                p.mb-0 Por lo general, las normas pueden tener un ámbito de acción nacional o internacional, dependiendo del alcance del organismo que las promulga o del acuerdo en la materia que haya tenido lugar entre países. En este sentido son normas oficiales, es decir, emitidas por la autoridad.
           p(data-aos="fade-left").mb-0 Estas son algunas de las normas internacionales y nacionales más reconocidas y aplicadas en los procesos de las bibliotecas:
         .col-lg-5.d-none.d-lg-flex(data-aos="flip-right")
           figure
@@ -393,7 +393,7 @@
             .col-xl-7.mb-4.mb-xl-0
               p El número de autor es el símbolo que permite diferenciar varias obras del mismo tema, pero escritas por diferentes autores, o del mismo autor, pero con títulos diferentes.
 
-              p.mb-0 La clasificación separa las obras por materias afines, pero para que los materiales puedan almacenarse y encontrarse con facilidad no es suficiente que se les asigne sólo la clasificación, sino que es necesario añadir otro código que represente a los autores de las obras y el cual complete la notación respectiva.             
+              p.mb-0 La clasificación separa las obras por materias afines, pero para que los materiales puedan almacenarse y encontrarse con facilidad no es suficiente que se les asigne solo la clasificación, sino que es necesario añadir otro código que represente a los autores de las obras y el cual complete la notación respectiva.             
 
             .col-xl-5.col-8
               figure
@@ -401,7 +401,7 @@
 
           .row.justify-content-center(numero="5" titulo="Año de edición")
             .col
-              p.mb-5 El año de edición se utiliza para diferenciar entre sí las distintas ediciones de una misma obra y sólo se agregará cuando se trate de una edición diferente de la primera.
+              p.mb-5 El año de edición se utiliza para diferenciar entre sí las distintas ediciones de una misma obra y solo se agregará cuando se trate de una edición diferente de la primera.
 
               .tabla-a.custom_01.mb-0
                 table

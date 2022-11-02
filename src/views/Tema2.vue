@@ -91,7 +91,7 @@
                 .pill.mb-4
                   h4.text-center.mb-0 UNAM - FFyL 
                 .pill.mb-4
-                  h4.text-center.mb-0 BIBLIOTECA PUBLICA 
+                  h4.text-center.mb-0 BIBLIOTECA PÚBLICA 
 
             p Las partes del material donde se recomienda sellar las obras impresas son:
             ul.fa-ul
@@ -131,7 +131,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        p(data-aos="fade-left") El kárdex permite un control eficiente de las revistas que ingresan a la biblioteca, para conocer no sólo con qué títulos cuenta la biblioteca, sino cuáles volúmenes y números o fascículos de esos títulos se han recibido.
+        p(data-aos="fade-left") El kárdex permite un control eficiente de las revistas que ingresan a la biblioteca, para conocer no solo con qué títulos cuenta la biblioteca, sino cuáles volúmenes y números o fascículos de esos títulos se han recibido.
         .bg--darkOrange.py-3.pe-4.mb-4(data-aos="zoom-in")
           .row.align-items-center  
             .col-auto
@@ -155,7 +155,7 @@
               figure.mb-4
                 img(src='@/assets/curso/temas/t2/t2_07.svg' alt='').img85.m-auto              
               h5.text-center Título
-              p.mb-0.text-center Título de la publicaciónTítulo de la publicación.
+              p.mb-0.text-center Título de la publicación.
 
             .bg_crd_01.text-white.py-5.px-4.br_01
               figure.mb-4
@@ -199,7 +199,7 @@
                   img(src="@/assets/curso/temas/recursos/warning_02.svg", alt="alt").img120
               .col
                 h5.txt--brown Rotulación o signado topográfico
-                p.mb-0 Proceso final que se da al material, cuando éste ha sido catalogado, clasificado y registrado en la base de datos. La etiqueta de signatura topográfica permitirá localizar en estantería las obras que reporta el catálogo de la biblioteca y, posteriormente, para acomodar los materiales de acuerdo a la clasificación temática que se utilice en la biblioteca.
+                p.mb-0 Proceso final que se da al material, cuando este ha sido catalogado, clasificado y registrado en la base de datos. La etiqueta de signatura topográfica permitirá localizar en estantería las obras que reporta el catálogo de la biblioteca y, posteriormente, para acomodar los materiales de acuerdo a la clasificación temática que se utilice en la biblioteca.
 
     .bg--grad_brown
       .row.align-items-center(data-aos="fade-left")
@@ -225,14 +225,14 @@
                   td.borderRigth QT cuatrimestral
                   td BA - bianual
                 tr.cell_Pale.text-center
-                  td.borderRigth B - Bimensual
+                  td.borderRigth B - bimensual
                   td.borderRigth ST - semestral
                   td I - irregular
 
     separador
 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.1 Normas técnicas para la presentación de Informes
+      h2 2.1 Normas técnicas para la presentación de informes
 
     p(data-aos="fade-left") La elaboración de informes está a cargo de funcionarios o empleados autorizados, mediante acto administrativo o en el cumplimiento de sus funciones. #[strong.txt--orange Los informes se elaboran a través de formatos diseñados en el sistema, de acuerdo con las normas internas de la organización.]
 
@@ -303,7 +303,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Inventarios del material bibliográfico
 
-    p(data-aos="fade-left") Los inventarios bibliográficos #[span.txt--orange.bold son archivos que registran los documentos disponibles en la colección del centro de recursos]. Los inventarios se deben encontrar clasificados por fondo bibliográfico (inglés, francés, alemán, español) Al abrir cada archivo se encuentra la serie de categorías que dan el acceso a la organización temática de cada fondo.
+    p(data-aos="fade-left") Los inventarios bibliográficos #[span.txt--orange.bold son archivos que registran los documentos disponibles en la colección del centro de recursos]. Los inventarios se deben encontrar clasificados por fondo bibliográfico (inglés, francés, alemán, español) al abrir cada archivo se encuentra la serie de categorías que dan el acceso a la organización temática de cada fondo.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-7

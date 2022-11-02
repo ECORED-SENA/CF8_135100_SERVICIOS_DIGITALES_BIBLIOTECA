@@ -137,7 +137,7 @@ export default {
     {
       tema: 'Organización del recurso de información bibliográfica.',
       referencia:
-        'Biblioteca DGIRE (s.f.).  Procesos técnicos de los materiales. Dgire.',
+        'Biblioteca DGIRE (s.f.). Proceso técnico de los materiales. Dgire.',
       tipo: 'Página web',
       link:
         'https://www.dgire.unam.mx/webdgire/bibliotecas/cat-proceso.html#inventariar',
@@ -150,18 +150,16 @@ export default {
         'https://www.dgire.unam.mx/webdgire/bibliotecas/organizacion-bibliografica.html',
     },
     {
-      tema:
-        'Pontificia Universidad Javeriana (2012). Manual práctico y competencias para la organización de los recursos bibliográficos : de la biblioteca comunitaria La Fuerza de las Palabras. Repository.javeriana.',
+      tema: 'Organización del recurso de información bibliográfica',
       referencia:
-        'Biblioteca DGIRE (s.f.).  Procesos técnicos de los materiales. Dgire.',
+        'Pontificia Universidad Javeriana (2012). Manual práctico y competencias para la organización de los recursos bibliográficos : de la biblioteca comunitaria La Fuerza de las Palabras.',
       tipo: 'Página web',
       link: 'https://repository.javeriana.edu.co/handle/10554/5688',
     },
     {
-      tema:
-        'Pontificia Universidad Javeriana (2012). Manual práctico y competencias para la organización de los recursos bibliográficos : de la biblioteca comunitaria La Fuerza de las Palabras. Repository.javeriana.',
+      tema: 'Estadísticas de uso del material bibliográfico.',
       referencia:
-        'Universidad Libre (2022). Estadística. Gestión de Bibliotecas. Unilibre',
+        'Universidad Libre (2022). Estadística. Gestión de Bibliotecas. Unilibre.',
       tipo: 'Página web',
       link:
         'https://www.unilibre.edu.co/socorro/index.php/event-program/nuestra-universidad/noticias-home/266-estadisticas-gestion-de-biblioteca#',
@@ -186,7 +184,7 @@ export default {
     {
       termino: 'Asistencia técnica',
       significado:
-        'Apoyo prestado por especialistas que se puede desarrollar a través de la transmisión de información y conocimientos teóricos y prácticos, instrucción, formación de habilidades y servicios de consultoría, y Aplicar la transferencia de datos técnicos.',
+        'Apoyo prestado por especialistas que se puede desarrollar a través de la transmisión de información y conocimientos teóricos y prácticos, instrucción, formación de habilidades y servicios de consultoría, y aplicar la transferencia de datos técnicos.',
     },
     {
       termino: 'Biblioteca',
